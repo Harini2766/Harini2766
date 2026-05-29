@@ -5,9 +5,8 @@ Full Stack Developer | Java Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Learner;Building+Scalable+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DSA+Learner;MERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Passionate+About+Backend+Development;Exploring+AI+Based+Solutions" alt="Typing Animation" />
 </p>
-
 
 ---
 
