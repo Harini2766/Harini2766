@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=HARINI%20L%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20MERN%20Stack&descAlignY=60" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Learner;Building+Scalable+Web+Applications" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm HARINI L S</h1>
 
