@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm HARINI L S</h1>
 
 <h3 align="center">
-Passionate Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enthusiast
+Full Stack Developer | Java Developer
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Passionate Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enth
 ## 🚀 About Me
 
 * 💻 Passionate Full Stack Developer specializing in Java, Spring Boot, and MERN Stack
-* 🌱 Currently learning DSA, Advanced Full Stack Development & AI-Based Applications
+* 🌱 Currently learning DSA, Advanced Full Stack Development
 * ⚡ Interested in scalable systems and modern software engineering
 * 🎯 Focused on improving problem-solving and backend development skills
 
@@ -90,25 +90,16 @@ Passionate Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enth
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harini2766&theme=tokyonight&row=1&column=6" />
-
-</p>
-
----
 
 ## 🌐 Coding Profiles
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/aIEhg5oGcx/">
 <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
 </a>
 
-<a href="YOUR_GFG_LINK">
+<a href="https://www.geeksforgeeks.org/profile/harini2706?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-000?style=for-the-badge&logo=geeksforgeeks&logoColor=green" />
 </a>
 
@@ -120,7 +111,7 @@ Passionate Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enth
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/harini2766">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -128,7 +119,7 @@ Passionate Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enth
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="harini.2766@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
