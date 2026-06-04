@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARINI L S</h1>
 
 <h3 align="center">
-Full Stack Developer  | Java Developer
+Full Stack Developer | Java Developer
 </h3>
 
 <p align="center">
