@@ -68,10 +68,9 @@ Full Stack Developer | Java Developer
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harini2766&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini2766&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harini2766&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini2766&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
 
 ---
 
