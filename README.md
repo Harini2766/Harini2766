@@ -40,11 +40,19 @@ Full Stack Developer | Java & Spring Boot Developer
 
 ### 🏦 Digital Banking System
 
-> A digital banking application with deposit, withdrawal, fund transfer, and account management features.
+> A digital banking application for managing accounts, transactions, and secure banking operations through a user-friendly interface.
 
 **Tech Stack:** Spring Boot, REST API, MySQL, HTML, CSS
 
----
+**Features:**
+- 💳 Account management
+- 💰 Deposit and withdrawal
+- 🔄 Fund transfer
+- 📊 Transaction management
+- 🔐 Secure banking operations
+- 👤 Customer management
+- 🧾 Transaction history
+- ⚙️ Admin monitoring
 
 ### 💰 SpendWise — Expense Tracker
 
